@@ -1,4 +1,4 @@
-
+//document.ready
 
 document.getElementById('entry').addEventListener("submit", enter);
 
